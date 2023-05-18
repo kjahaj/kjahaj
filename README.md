@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi, guys! 👋 Welcome to my page!
 
-<!--
-**kjahaj/kjahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vladimir, and I'm currently on a journey of learning and exploring the exciting fields of Machine Learning and Deep Learning. My goal is to master these domains without stumbling and falling on my bottom! 🚶‍♂️
 
-Here are some ideas to get you started:
+I'm passionate about collaborating on interesting and innovative projects. If you have any exciting opportunities or ideas, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- LinkedIn: [Vladimir's LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- Kaggle: [Vladimir on Kaggle](https://www.kaggle.com/your-kaggle-profile/)
+- Stepik: [Vladimir on Stepik](https://stepik.org/users/your-stepik-profile/)
+- LeetCode: [Vladimir on LeetCode](https://leetcode.com/your-leetcode-profile/)
+
+## Languages
+- Python
+- JavaScript
+- Java
+- Clojure
+- C++
+- C
+- Bash
+- SQL
+
+## ML/DL
+- Pandas
+- NumPy
+- MLFlow
+- Scikit-Learn
+- PyTorch
+- SciPy
+- Matplotlib
+
+## Technologies & Frameworks
+- Django
+- React
+- HTML5
+- CSS3
+- Docker
+
+## Operating Systems
+- Linux
+- Windows
+- FreeBSD
+
+Feel free to connect with me on the platforms above and explore the exciting world of machine learning and deep learning together!
