@@ -18,9 +18,11 @@
 * Git 
 * Bash
 
-  ## 📫 Contact Me
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/klei-jahaj-17a387234/?originalSubdomain=al)
-* Email: [Your Email](mailto:kleijahaj@proton.me)
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-kjahaj-blue)](https://github.com/kjahaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KleiJahaj-red)](https://www.linkedin.com/in/klei-jahaj-17a387234/?originalSubdomain=al)
+[![Email](https://img.shields.io/badge/Email-purple)](mailto:kleijahaj@proton.me)
+
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjahaj&show_icons=true&count_private=true)
