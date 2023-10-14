@@ -7,21 +7,21 @@ I possess a diverse skill set that covers a wide range of programming languages 
 
 | Skill                        | Description                                                    |
 |------------------------------|----------------------------------------------------------------|
-| ![Java](icons/java.png)      | Proficient in Java, with experience in building Java applications and working with Java-based frameworks. |
-| ![Python](icons/python.png)  | Experienced in Python for data analysis, web development, and automation. |
-| ![C/C++](icons/cpp.png)      | Strong knowledge of C and C++ for system-level programming. |
-| ![MySQL](icons/mysql.png)    | Skilled in MySQL for database design and management. |
-| ![JavaScript](icons/js.png)  | Proficient in JavaScript for front-end and back-end development. |
-| ![PHP](icons/php.png)        | Experienced in PHP for web development and server-side scripting. |
-| ![HTML](icons/html.png)      | Proficient in HTML for building web pages and web applications. |
-| ![Django](icons/django.png)  | Skilled in Django, a high-level Python web framework, for building robust and scalable web applications. |
-| ![Advanced Algorithms](icons/algorithms.png) | Strong grasp of advanced algorithms and problem-solving skills. |
-| ![Database Management Systems](icons/dbms.png) | Experienced in designing and managing database systems. |
-| ![Computer Architecture](icons/architecture.png) | In-depth knowledge of computer architecture and system design. |
-| ![Software Modeling and Design](icons/design.png) | Skilled in software modeling and design principles. |
-| ![Data Structures](icons/data-structures.png) | Proficient in data structures for efficient data handling. |
-| ![Git](icons/git.png)        | Proficient with Git version control for collaborative development. |
-| ![Bash](icons/bash.png)      | Skilled in shell scripting and automation using Bash. |
+| Java                         | Proficient in Java, with experience in building Java applications and working with Java-based frameworks. |
+| Python                       | Experienced in Python for data analysis, web development, and automation. |
+| C/C++                        | Strong knowledge of C and C++ for system-level programming. |
+| MySQL                        | Skilled in MySQL for database design and management. |
+| JavaScript                    | Proficient in JavaScript for front-end and back-end development. |
+| PHP                          | Experienced in PHP for web development and server-side scripting. |
+| HTML                         | Proficient in HTML for building web pages and web applications. |
+| Django                       | Skilled in Django, a high-level Python web framework, for building robust and scalable web applications. |
+| Advanced Algorithms           | Strong grasp of advanced algorithms and problem-solving skills. |
+| Database Management Systems   | Experienced in designing and managing database systems. |
+| Computer Architecture         | In-depth knowledge of computer architecture and system design. |
+| Software Modeling and Design  | Skilled in software modeling and design principles. |
+| Data Structures               | Proficient in data structures for efficient data handling. |
+| Git                          | Proficient with Git version control for collaborative development. |
+| Bash                         | Skilled in shell scripting and automation using Bash. |
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-kjahaj-blue)](https://github.com/kjahaj)  
