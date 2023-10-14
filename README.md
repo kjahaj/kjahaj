@@ -1,7 +1,7 @@
 # 👋 Welcome to my page!
 
 
-## Languages
+## Skills
 * Java
 * Python
 * C/C++
@@ -10,8 +10,6 @@
 * PHP
 * HTML/CSS
 * Django
-
-## Skills
 * Advanced Algorithms
 * Database Menagement Systems
 * Computer Architecture
@@ -19,6 +17,10 @@
 * Data Structures
 * Git 
 * Bash
+
+  ## 📫 Contact Me
+* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/klei-jahaj-17a387234/?originalSubdomain=al)
+* Email: [Your Email](mailto:kleijahaj@proton.me)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjahaj&show_icons=true&count_private=true)
